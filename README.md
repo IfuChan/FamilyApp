@@ -1,10 +1,11 @@
 # FamilyApp
 
 This was my **Junior Design** course project.
-![Logo](assets/mainlogo.png)
+<img src="assets/mainlogo.png" width=50%>
 
 ### Homepage:
-![homepage](assets/homepage.jpg) ![homepageoptions](assets/homepage_options.jpg)
+<img src="assets/homepage.jpg" width=50%>
+<img src="assets/homepage_options.jpg" width=50%>
 
 ## Main Features
 
@@ -12,20 +13,22 @@ This was my **Junior Design** course project.
 
 User can see the last location of their family members, along with the last online status.
 
-![livelocation](assets/location.png) ![famlocation](assets/famloc.bmp)
-![loctoptions](assets/location_options.png)
+<img src="assets/location.png" width=50%>
+<img src="assets/famloc.bmp" width=50%>
+
+<img src="assets/location_options.png" width=50%>
 
 ### Create Family Group:
 
 User can create a family group so that family members can be connected to one another.
 
-![groupcreate](assets/famcreate.jpg)
+<img src="assets/famcreate.jpg" width=50%>
 
 ### Join Family Group:
 
 User can join a family group.
 
-![groupjoin](assets/famjoin.jpg)
+<img src="assets/famjoin.jpg" width=50%>
 
 I am planning on polishing this project in the near future and hopefully people will find it useful.
 If you are inspired by this project, do please acknowledge this repository :innocent: :v:
